@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Kaushan+Script|Niconne|Princess+Sofia|Sedgwick+Ave);
+
+font-family: 'Princess Sofia', cursive;
+
+.form-all *{
+
+	font-family: 'Princess Sofia', sans-serif;
+
+};
+
+body *{
+	padding: 5px;
+	font-size: 12px;
+	font-family: "Princess Sofia";    
+};
+
+input, textarea, select {
+	font-family:inherit;
+};
+
+button, div, form, input {
+      margin: 10px;
+};
+
+img *{
+	height: 150px;
+}
+
+/*#fantasyDiv > div {
+	max-width: 550px;
+	float: left;
+}*/
